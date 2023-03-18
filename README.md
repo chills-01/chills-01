@@ -1,6 +1,6 @@
-👋 Hi, I’m @chills-01 a final year Engineering and Science student at Monash University, working part-time in Data Science    
-🧠 I’m interested in Machine Learning, Data and AI, and am currently working on a large-scale ML/computer vision implementation using Microsoft Azure  
-🎓 I’m currently learning web development and computer vision and refreshing my fundamental software engineering and computer science principles  
+👋 Hi, I’m @chills-01 a an Engineer with a passion for making things on a computer 🤓
+🧠 I’m interested in building things that impact people's lives and enjoy leveraging my mathematical background to solve problems
+🎓 I’m currently working on web development and mobile apps, but have experience building and hosting commercial ML models and their associated services in the cloud  
 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/carter-hills/)
   - [Email](carter.hills2801@gmail.com)
